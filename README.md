@@ -41,8 +41,9 @@ Defender relay providers and signers for reads (use your own `ethers.JsonRpcProv
 
 ## Reference
 
-OpenZeppelin Relayer plugins: https://docs.openzeppelin.com/relayer/plugins
-Defender migration guide: https://docs.openzeppelin.com/defender/migration
+- OpenZeppelin Relayer plugins: https://docs.openzeppelin.com/relayer/plugins
+- Defender migration guide, removed from OpenZeppelin's docs on 2026-10-02 (last version): https://github.com/OpenZeppelin/docs/blob/fbdbf0b2259a622c2f4d85bb25d63c0b71a7859b/content/defender/migration.mdx
+- The same steps, rewritten and kept current: https://nonceworks.com/defender-migration.html
 
 ## License
 
